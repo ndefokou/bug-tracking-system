@@ -1,0 +1,13 @@
+/home/arthur/Desktop/bug-tracking-system/backend/target/debug/deps/liblog-f84a357787361ba1.rmeta: /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/home/arthur/Desktop/bug-tracking-system/backend/target/debug/deps/log-f84a357787361ba1.d: /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs:
+/home/arthur/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs:
